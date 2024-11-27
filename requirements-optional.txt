@@ -1,0 +1,10 @@
+# requirements-optional.txt
+
+# Optional dependencies for extended features
+
+# Keep only packages that are truly optional
+shap>=0.46.0
+boto3>=1.35.0
+google-cloud-storage>=2.18.0
+azure-storage-blob>=12.24.0
+requests>=2.32.0
